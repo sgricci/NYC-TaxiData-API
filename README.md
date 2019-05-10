@@ -17,6 +17,16 @@ $ python3 -m venv venv
 
 3. Install from requirements.txt
 
+# Running
+
+# Running Tests
+
 # Production Setup Notes
 
 # API
+
+## Endpoints
+
+### Boroughts
+
+```GET /boroughs```

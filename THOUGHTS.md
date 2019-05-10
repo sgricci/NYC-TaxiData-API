@@ -43,6 +43,7 @@ Should save time for unit tests and documentation
 - Average duration
 
 
-## Start of work 
+## If I had more time (reflections)
 
-
+pytest implementation could be cleaned up (classes/objects, for example)
+more robust search interface
