@@ -47,3 +47,4 @@ Should save time for unit tests and documentation
 
 pytest implementation could be cleaned up (classes/objects, for example)
 more robust search interface
+probably would've been better to summarize the results / grouped the results based on the time frame and just present a summarized row per car type
