@@ -7,6 +7,16 @@ NYC-TaxiData-API is an API built in Flask/Python (3) and MySQL utilizing the [Ne
 
 # Development Setup
 
+1. Setup virtualenv
+
+```bash
+$ python3 -m venv venv
+```
+
+2. Activate venv
+
+3. Install from requirements.txt
+
 # Production Setup Notes
 
 # API

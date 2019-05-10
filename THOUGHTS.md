@@ -12,6 +12,16 @@ to summarize the data into hourly summary rows
 
 Should save time for unit tests and documentation
 
+### Requirements
+
+*   We can filter based on yellow cab, green cab, and for-hire vehicle.
+*   We can provide a start and end borough for our trip.
+*   We can filter based on datetime.
+*   The returned data shows some interesting metrics that will help us get around.
+*   Your code is well-tested.
+*   Documentation is provided for how to build and run your code.
+
+
 ### Plan of Attack
 
 * Grab data
@@ -24,6 +34,14 @@ Should save time for unit tests and documentation
 * Write data summarization tool
 * Write documentation while data summarization tool works
 * Test
+
+### Interesting Metrics
+
+- Cost per unit of distance
+- Average trip cost
+- Average distance
+- Average duration
+
 
 ## Start of work 
 
